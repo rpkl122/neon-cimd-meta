@@ -1,0 +1,1 @@
+{"client_id": "https://cdn.jsdelivr.net/gh/rpkl122/neon-cimd-meta@main/meta5e.json", "client_name": "ssrf-e", "redirect_uris": ["http://localhost:3000/cb5"], "token_endpoint_auth_method": "private_key_jwt", "grant_types": ["client_credentials"], "response_types": ["code"], "jwks_uri": "https://ep-red-poetry-w2bgi1sr.apirest.us-east-2.aws.neon.build/neondb/rest/v1/"}
