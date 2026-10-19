@@ -1,0 +1,1 @@
+{"client_id": "https://cdn.jsdelivr.net/gh/rpkl122/neon-cimd-meta@main/meta6c.json", "client_name": "ssrf-c", "redirect_uris": ["http://localhost:3000/cb5"], "token_endpoint_auth_method": "private_key_jwt", "grant_types": ["client_credentials", "authorization_code"], "response_types": ["code"], "jwks_uri": "http://127.0.0.1:8080/"}
