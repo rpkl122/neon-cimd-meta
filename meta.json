@@ -1,0 +1,1 @@
+{"client_name":"cimd-probe","redirect_uris":["http://localhost:3000/cb3"],"token_endpoint_auth_method":"none","grant_types":["authorization_code","refresh_token"],"response_types":["code"],"skip_consent":true,"scope":"openid profile email"}
